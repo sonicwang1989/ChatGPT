@@ -1,3 +1,3 @@
-ChatGPT wrapped with WebView
+## ChatGPT wrapped with WebView
 
-proxy setting: socks5://127.0.0.1:1080
+### proxy setting: socks5://127.0.0.1:1080
